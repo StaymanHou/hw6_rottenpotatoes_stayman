@@ -1,0 +1,8 @@
+[before]
+moviegoer.reviews: 118.4ms
+movie.reviews: 125.2ms
+
+[after]
+moviegoer.reviews: 64.3ms
+movie.reviews: 56.2ms
+
